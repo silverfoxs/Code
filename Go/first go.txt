@@ -3,3 +3,7 @@
 country:"il"
 
 site:"gov.il"
+
+device:"csico"
+
+app:"nginx"
